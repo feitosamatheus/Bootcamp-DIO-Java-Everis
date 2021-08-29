@@ -8,7 +8,6 @@ public class Main {
         minhaFila.enqueue("segundo");
         minhaFila.enqueue("terceiro");
         minhaFila.enqueue("quarto");
-
         System.out.println(minhaFila);
 
         System.out.println(minhaFila.dequeue());
