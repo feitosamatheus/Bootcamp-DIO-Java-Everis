@@ -14,11 +14,12 @@ public class Main {
         System.out.println(minhaLista);
 
         minhaLista.remove(3);
-        minhaLista.add(1,"99");
+        minhaLista.add(1,"texto99");
 
         System.out.println(minhaLista);
 
         System.out.println(minhaLista.get(1));
+        System.out.println(minhaLista.get(4));
 
 
 
